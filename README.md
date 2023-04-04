@@ -4,7 +4,7 @@
 
 -pdf - 3.10.1
 
--pdf_view_plugin - 2.0.1
+-pdf_viewer_plugin - 2.0.1
 
 -path_provider - 2.0.14
 
